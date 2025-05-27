@@ -14,9 +14,11 @@ A simple Java command-line game where you compete against the computer by rollin
 Press Enter to roll the dice...
 
 ===== Round 1 =====
+
 You: 4 | Computer: 6
 
 ===== Round 2 =====
+
 You: 5 | Computer: 2
 
 ...
