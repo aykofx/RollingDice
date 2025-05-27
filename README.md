@@ -24,7 +24,9 @@ You: 5 | Computer: 2
 ...
 
 Final score after 5 rounds:
+
 Player: 3 | Computer: 2
 
 You win.
+
 Do you want to play again? (Yes/No)
